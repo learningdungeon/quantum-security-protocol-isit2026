@@ -1,6 +1,6 @@
 
 
-# RAQT Protocol — Q Defence in Depth - Hybrid Quantum/PQC Authentication Demo
+#  Q Defence in Depth - Hybrid Quantum/PQC Authentication (Demo)
 
 **ISIT 2026 QHack — Phase Shifters** | **Presenter:** Noor Ul Ain Faisal
 
